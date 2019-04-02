@@ -1,0 +1,9 @@
+{
+    "require": {
+        "mgp25/instagram-php": "^2.0",
+        "stripe/stripe-php": "^5.1",
+        "phpoffice/phpspreadsheet": "^1.1",
+        "fightbulc/moment": "^1.26",
+        "symfony/process": "^4.1"
+    }
+}

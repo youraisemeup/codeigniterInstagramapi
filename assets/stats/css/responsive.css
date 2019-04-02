@@ -1,0 +1,200 @@
+
+@media screen and (max-width: 768px) and (min-width: 280px) {
+    .logo{
+        margin: 0 auto;
+        display: table;
+        float: none;
+    }
+
+    .back_btn{
+        float: none;
+        margin: 0 auto;
+        display: table;
+    }
+
+    .heding_spprt h1{
+        font-size: 30px;
+    }
+
+    .heding_spprt p{
+        font-size: 13px;
+    }
+
+    .heding_spprt{
+        padding: 0px 17px 0px 10px;
+    }
+
+    .section_spc{
+        padding: 40px 0px 5px;
+    }
+
+    .footer_p{
+        margin: 0 auto;
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .footer_link{
+        margin: 0 auto;
+        padding-top: 10px;
+        display: table;
+    }
+
+    .table_supprt{
+        width: 100%;
+    }
+
+    .table_supprt th{
+        font-size: 16px;
+    }
+
+    .table_supprt td{
+        font-size: 15px;
+    }
+
+    .view_table{
+        font-size: 11px;
+        padding: 6px 5px;
+    }
+
+    .left_spc{
+        margin-left:0px;
+    }
+
+    .profile_data{
+        padding-top: 0px;
+    }
+
+    .inner_bg{
+        padding: 40px 0px;
+    }
+
+    .main_h1{
+        padding-top: 40px;
+    }
+
+    .faq_contnt{
+        padding: 8px 10px;
+    }
+
+    .faq_h4{
+        font-size: 18px;
+    }
+
+    .faq_contnt p{
+        font-size: 13px;
+    }
+
+    .about_h4{
+        font-size: 17px;
+        line-height: 24px;
+    }
+
+    .faq_contnt i{
+        font-size: 13px;
+    }
+
+}
+
+@media screen and (max-width: 990px) and (min-width: 574px) {
+    .gains li{
+        float: none;
+        padding-right: 0px;
+    }
+
+    .text-muted{
+        text-align: center;
+    }
+
+    .gains_hding{
+        width: 85%;
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 400px) and (min-width: 280px) {
+    .search_box{
+        width: 80% !important;
+        padding: 9px 8px 10px;
+    }
+
+    .srch_btn{
+        width: 20% !important;
+    }
+
+    .search_section{
+        min-height: 60%;
+    }
+
+    .srch_btn{
+        padding: 10px 20px 11.5px;
+    }
+
+    .login-html .tab{
+        font-size: 15px;
+    }
+
+    .back_btn{
+        float: none;
+        margin: 0 auto;
+        display: table;
+    }
+
+    .gains_hding{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 990px) and (min-width: 280px) {
+    label{
+        width: 46% !important;
+    }
+}
+
+@media screen and (max-width: 500px) and (min-width: 360px) {
+    .table_supprt{
+        padding: 40px 0px 35px 0px;
+    }
+
+    .table_supprt th{
+        font-size: 10px;
+    }
+
+    .table_supprt td{
+        font-size: 10px;
+        padding: 20px 3px;
+    }
+
+    .recent td{
+        font-size: 9px !important;
+    }
+
+    .view_table{
+        font-size: 10px;
+        padding: 5px 4px;
+    }
+}
+
+@media screen and (max-width: 350px) and (min-width: 280px) {
+    .table_supprt{
+        padding: 40px 0px 35px 0px;
+    }
+
+    .table_supprt th{
+        font-size: 10px;
+    }
+
+    .table_supprt td{
+        font-size: 10px;
+        padding: 20px 3px;
+    }
+
+    .recent td{
+        font-size: 9px !important;
+    }
+
+    .view_table{
+        font-size: 7px;
+        padding: 5px 4px;
+    }
+}

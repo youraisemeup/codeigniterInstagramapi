@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mgp25/instagram-php": "^2.0",
+        "stripe/stripe-php": "^5.1"
+    }
+}

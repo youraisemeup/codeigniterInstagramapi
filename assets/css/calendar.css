@@ -1,0 +1,432 @@
+/* Schedule Calendar (Month) */
+
+.sc-month-switch {
+
+    margin-bottom: 27px;
+
+    text-align: center; }
+
+.sc-month-switch .month {
+
+    font-size: 18px;
+
+    line-height: 22px; }
+
+.sc-month-switch .year {
+
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    line-height: 15px;
+
+    color: #9b9b9b; }
+
+.sc-month-switch .nav {
+
+    font-size: 14px;
+
+    color: #9b9b9b; }
+
+.sc-month-switch .nav:hover {
+
+    color: #212121; }
+
+.sc-month-switch .nav.left {
+
+    margin-right: 5px; }
+
+.sc-month-switch .nav.right {
+
+    margin-left: 5px; }
+
+
+
+.schedule-calendar {
+
+    border-style: solid;
+
+    border-color: #e0e0e0;
+
+    border-width: 1px 0px 0px 1px; }
+
+
+
+.schedule-calendar .cell {
+
+    float: left;
+
+    width: 14.28%;
+
+    background-color: #fff;
+
+    -webkit-box-sizing: border-box;
+
+    -moz-box-sizing: border-box;
+
+    box-sizing: border-box;
+
+    border-style: solid;
+
+    border-color: #e0e0e0;
+
+    border-width: 0px 1px 1px 0px; }
+
+.schedule-calendar .cell.in-other-month {
+
+    background-color: #f5f5f5; }
+
+
+
+.schedule-calendar .sc-head .cell {
+
+    padding: 24px 10px 22px;
+
+    font-size: 16px;
+
+    line-height: 19px;
+
+    color: #212121;
+
+    text-align: center;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis; }
+
+
+
+.schedule-calendar .cell-inner {
+
+    position: relative;
+
+    padding-top: 75.27%; }
+
+
+
+.schedule-calendar .day-name {
+
+    position: absolute;
+
+    top: 28px;
+
+    left: 50px;
+
+    display: none;
+
+    font-size: 10px;
+
+    line-height: 19px;
+
+    color: #9b9b9b; }
+
+
+
+.schedule-calendar .day-number {
+
+    position: absolute;
+
+    top: 22px;
+
+    right: 17px;
+
+    width: 28px;
+
+    height: 19px;
+
+    /*padding: 5px 0 4px;*/
+    padding: 5px 0 22px;
+
+    color: #9b9b9b;
+
+    text-align: center;
+
+    line-height: 19px;
+
+    font-size: 16px;
+
+    border-radius: 50%; }
+
+
+
+.schedule-calendar .cell.today .day-number {
+
+    color: #fff;
+
+    background-color: #ff3d3d; }
+
+
+
+.schedule-calendar .add-post {
+
+    position: absolute;
+
+    top: 27px;
+
+    left: 17px;
+
+    color: #9b9b9b;
+
+    font-size: 10px;
+
+    line-height: 19px;
+
+    opacity: 0;
+
+    visibility: hidden;
+
+    -webkit-transition: all ease 0.2s;
+
+    -moz-transition: all ease 0.2s;
+
+    transition: all ease 0.2s;
+
+    -webkit-transform: translateY(5px);
+
+    -moz-transform: translateY(5px);
+
+    -ms-transform: translateY(5px);
+
+    -o-transform: translateY(5px);
+
+    transform: translateY(5px); }
+
+.schedule-calendar .add-post .icon {
+
+    font-size: 14px;
+
+    vertical-align: -2px; }
+
+.schedule-calendar .add-post:hover {
+
+    color: #212121; }
+
+
+
+.schedule-calendar .cell:hover .add-post {
+
+    opacity: 1;
+
+    visibility: visible;
+
+    -webkit-transform: translateY(0px);
+
+    -moz-transform: translateY(0px);
+
+    -ms-transform: translateY(0px);
+
+    -o-transform: translateY(0px);
+
+    transform: translateY(0px); }
+
+
+
+.schedule-calendar .count {
+
+    position: absolute;
+
+    top: 50%;
+
+    left: 0;
+
+    margin-top: 0px;
+
+    width: 100%;
+
+    text-align: center;
+
+    font-size: 12px;
+
+    line-height: 14px; }
+
+.schedule-calendar .count a {
+
+    display: block;
+
+    height: 14px;
+
+    margin: 0 22px;
+
+    /*padding: 9px 10px 9px;*/
+    padding: 9px 8px 22px;
+
+    color: #fff;
+
+    background-color: #47F15A;
+
+    background: linear-gradient(134.72deg, #47F15A 0%, #0DE8E8 100%);
+
+    border-radius: 100px;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
+
+    -webkit-transition: all ease 0.2s;
+
+    -moz-transition: all ease 0.2s;
+
+    transition: all ease 0.2s;
+
+    -webkit-transform: rotateX(0deg);
+
+    -moz-transform: rotateX(0deg);
+
+    -ms-transform: rotateX(0deg);
+
+    -o-transform: rotateX(0deg);
+
+    transform: rotateX(0deg); }
+
+.schedule-calendar .count a:hover {
+
+    background: linear-gradient(72.72deg, #47F15A 0%, #0DE8E8 100%);
+
+    box-shadow: 2px 2px 6px 0 #e9ebee; }
+
+.schedule-calendar .count.medium a {
+
+    background-color: #00EAF8;
+
+    background: linear-gradient(134.72deg, #00EAF8 0%, #6D42EF 100%); }
+
+.schedule-calendar .count.medium a:hover {
+
+    background: linear-gradient(72.72deg, #00EAF8 0%, #6D42EF 100%); }
+
+.schedule-calendar .count.high a {
+
+    background-color: #EB4B92;
+
+    background: linear-gradient(134.72deg, #EB4B92 0%, #CA76E3 100%); }
+
+.schedule-calendar .count.high a:hover {
+
+    background: linear-gradient(72.72deg, #EB4B92 0%, #CA76E3 100%); }
+
+
+
+@media screen and (max-width: 992px) {
+
+    .sc-month-switch {
+
+        margin-bottom: 20px; }
+
+    .schedule-calendar .sc-head {
+
+        display: none; }
+
+    .schedule-calendar .cell {
+
+        width: 20%; }
+
+    .schedule-calendar .cell.in-other-month {
+
+        display: none; }
+
+    .schedule-calendar .day-name {
+
+        display: block; }
+
+    .schedule-calendar .day-number {
+
+        left: 17px;
+
+        right: auto; }
+
+    .schedule-calendar .add-post {
+
+        left: auto;
+
+        right: 17px; }
+
+    .schedule-calendar .add-post {
+
+        opacity: 1;
+
+        visibility: visible;
+
+        -webkit-transform: translateY(0px);
+
+        -moz-transform: translateY(0px);
+
+        -ms-transform: translateY(0px);
+
+        -o-transform: translateY(0px);
+
+        transform: translateY(0px); }
+
+    .schedule-calendar .add-post .icon {
+
+        font-size: 20px;
+
+        vertical-align: 0; } }
+
+
+
+@media screen and (max-width: 768px) {
+
+    .schedule-calendar .cell {
+
+        width: 33.33%; } }
+
+
+
+@media screen and (max-width: 600px) {
+
+    .schedule-calendar .cell {
+
+        width: 50%; } }
+
+
+
+@media screen and (max-width: 425px) {
+
+    .schedule-calendar .cell {
+
+        float: none;
+
+        width: auto; } }
+
+
+
+/* Schedule Calendar (Day) */
+
+#schedule-calendar-day .account-selector {
+
+    position: absolute;
+
+    top: -5px;
+
+    right: 0; }
+
+
+
+#schedule-calendar-day .page-secondary-title {
+
+    margin-bottom: 36px; }
+
+#schedule-calendar-day .page-secondary-title .badge {
+
+    margin-left: 13px;
+
+    vertical-align: 1px; }
+
+
+
+@media screen and (max-width: 992px) {
+
+    #schedule-calendar-day .account-selector {
+
+        position: static;
+
+        margin-bottom: 30px; }
+
+    #schedule-calendar-day .page-secondary-title {
+
+        margin-bottom: 20px; } }
+

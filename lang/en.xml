@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>    
+  <lang slug="Processing">  
+    <text>Processing</text>
+  </lang>
+  <lang slug="Queue"> 
+    <text>Queue</text>
+  </lang>
+  <lang slug="Failure"> 
+    <text>Failure</text>
+  </lang>
+  <lang slug="Repeat">  
+    <text>Repeat</text>
+  </lang>
+  <lang slug="Complete">  
+    <text>Complete</text>
+  </lang>
+  <lang slug="Post successfully"> 
+    <text>Post successfully</text>
+  </lang>
+  <lang slug="Successfully">  
+    <text>Successfully</text>
+  </lang>
+  <lang slug="Auto activity"> 
+    <text>Auto activity</text>
+  </lang>
+  <lang slug="Add new"> 
+    <text>Add new</text>
+  </lang>
+  <lang slug="Sort:"> 
+    <text>Sort:</text>
+  </lang>
+  <lang slug="-"> 
+    <text>-</text>
+  </lang>
+  <lang slug="Username">  
+    <text>Username</text>
+  </lang>
+  <lang slug="Time">  
+    <text>Time</text>
+  </lang>
+  <lang slug="Filter:"> 
+    <text>Filter:</text>
+  </lang>
+  <lang slug="Started"> 
+    <text>Started</text>
+  </lang>
+  <lang slug="Stoped">  
+    <text>Stoped</text>
+  </lang>
+  <lang slug="No time"> 
+    <text>No time</text>
+  </lang>
+  <lang slug="Search by username">  
+    <text>Search by username</text>
+  </lang>
+  <lang slug="Search">  
+    <text>Search</text>
+  </lang>
+  <lang slug="Instagram"> 
+    <text>Instagram</text>
+  </lang>
+  <lang slug="Activity">  
+    <text>Activity</text>
+  </lang>
+  <lang slug="Likes"> 
+    <text>Likes</text>
+  </lang>
+  <lang slug="Comments">  
+    <text>Comments</text>
+  </lang>
+  <lang slug="Follows"> 
+    <text>Follows</text>
+  </lang>
+  <lang slug="Follow back"> 
+    <text>Follow back</text>
+  </lang>
+  <lang slug="Unfollows"> 
+    <text>Unfollows</text>
+  </lang>
+  <lang slug="Repost">  
+    <text>Repost</text>
+  </lang>
+  <lang slug="Stop">  
+    <text>Stop</text>
+  </lang>
+  <lang slug="Start"> 
+    <text>Start</text>
+  </lang>
+  <lang slug="Settings">  
+    <text>Settings</text>
+  </lang>
+  <lang slug="More">  
+    <text>More</text>
+  </lang>
+  <lang slug="Log"> 
+    <text>Log</text>
+  </lang>
+  <lang slug="Profile"> 
+    <text>Profile</text>
+  </lang>
+  <lang slug="Disconnect">  
+    <text>Disconnect</text>
+  </lang>
+  <lang slug="No recent activity">  
+    <text>No recent activity</text>
+  </lang>
+  <lang slug="Accounts">  
+    <text>Accounts</text>
+  </lang>
+  <lang slug="To do"> 
+    <text>To do</text>
+  </lang>
+  <lang slug="Like">  
+    <text>Like</text>
+  </lang>
+  <lang slug="Comment"> 
+    <text>Comment</text>
+  </lang>
+  <lang slug="Follow">  
+    <text>Follow</text>
+  </lang>
+  <lang slug="Unfollow">  
+    <text>Unfollow</text>
+  </lang>
+  <lang slug="Repost media">  
+    <text>Repost media</text>
+  </lang>
+  <lang slug="Targeting"> 
+    <text>Targeting</text>
+  </lang>
+  <lang slug="Hashtags">  
+    <text>Hashtags</text>
+  </lang>
+  <lang slug="Locations"> 
+    <text>Locations</text>
+  </lang>
+  <lang slug="Usernames"> 
+    <text>Usernames</text>
+  </lang>
+  <lang slug="Timeline Feed"> 
+    <text>Timeline Feed</text>
+  </lang>
+  <lang slug="Popular feed">  
+    <text>Popular feed</text>
+  </lang>
+  <lang slug="Your Feed"> 
+    <text>Your Feed</text>
+  </lang>
+  <lang slug="Explore Tab Feed">  
+    <text>Explore Tab Feed</text>
+  </lang>
+  <lang slug="Speed"> 
+    <text>Speed</text>
+  </lang>
+  <lang slug="Activity speed">  
+    <text>Activity speed</text>
+  </lang>
+  <lang slug="Slow">  
+    <text>Slow</text>
+  </lang>
+  <lang slug="Medium">  
+    <text>Medium</text>
+  </lang>
+  <lang slug="Fast">  
+    <text>Fast</text>
+  </lang>
+  <lang slug="Likes / hour (post)"> 
+    <text>Likes / hour (post)</text>
+  </lang>
+  <lang slug="Comments / hour (post)">  
+    <text>Comments / hour (post)</text>
+  </lang>
+  <lang slug="Follows / hour (post)"> 
+    <text>Follows / hour (post)</text>
+  </lang>
+  <lang slug="Follows back / hour (post)">  
+    <text>Follows back / hour (post)</text>
+  </lang>
+  <lang slug="Unfollows / hour (post)"> 
+    <text>Unfollows / hour (post)</text>
+  </lang>
+  <lang slug="Reposts / hour (post)"> 
+    <text>Reposts / hour (post)</text>
+  </lang>
+  <lang slug="Delay on each account (minutes)"> 
+    <text>Delay on each account (minutes)</text>
+  </lang>
+  <lang slug="Add"> 
+    <text>Add</text>
+  </lang>
+  <lang slug="Delete all">  
+    <text>Delete all</text>
+  </lang>
+  <lang slug="Delete all locations">  
+    <text>Delete all locations</text>
+  </lang>
+  <lang slug="Delete all usernames">  
+    <text>Delete all usernames</text>
+  </lang>
+  <lang slug="Message"> 
+    <text>Message</text>
+  </lang>
+  <lang slug="Submit">  
+    <text>Submit</text>
+  </lang>
+  <lang slug="2017 © Software. All rights reserved.">  
+    <text>2017 © Software. All rights reserved.</text>
+  </lang>
+  <lang slug="Pricing"> 
+    <text>Pricing</text>
+  </lang>
+  <lang slug="Support"> 
+    <text>Support</text>
+  </lang>
+  <lang slug="Hi">  
+    <text>Hi</text>
+  </lang>
+  <lang slug="MAIN NAVIGATION"> 
+    <text>MAIN NAVIGATION</text>
+  </lang>
+  <lang slug="Dashboard"> 
+    <text>Dashboard</text>
+  </lang>
+  <lang slug="Instagram accounts">  
+    <text>Instagram accounts</text>
+  </lang>
+  <lang slug="Logs">  
+    <text>Logs</text>
+  </lang>
+  <lang slug="INSTAGRAM TOOLS"> 
+    <text>INSTAGRAM TOOLS</text>
+  </lang>
+  <lang slug="Schedule post"> 
+    <text>Schedule post</text>
+  </lang>
+  <lang slug="Save posts">  
+    <text>Save posts</text>
+  </lang>
+  <lang slug="Schedule message">  
+    <text>Schedule message</text>
+  </lang>
+  <lang slug="Instagram search">  
+    <text>Instagram search</text>
+  </lang>
+  <lang slug="Instagram download">  
+    <text>Instagram download</text>
+  </lang>
+  <lang slug="ADMIN AREA">  
+    <text>ADMIN AREA</text>
+  </lang>
+  <lang slug="Payment management">  
+    <text>Payment management</text>
+  </lang>
+  <lang slug="Package settings">  
+    <text>Package settings</text>
+  </lang>
+  <lang slug="Payment settings">  
+    <text>Payment settings</text>
+  </lang>
+  <lang slug="Payment history"> 
+    <text>Payment history</text>
+  </lang>
+  <lang slug="User management"> 
+    <text>User management</text>
+  </lang>
+  <lang slug="Software Team">  
+    <text>Software Team</text>
+  </lang>
+  <lang slug="Select at least a item">  
+    <text>Select at least a item</text>
+  </lang>
+  <lang slug="Select at least a Page/Group/Profile">  
+    <text>Select at least a Page/Group/Profile</text>
+  </lang>
+  <lang slug="Instagram account not exist"> 
+    <text>Instagram account not exist</text>
+  </lang>
+  <lang slug="Account"> 
+    <text>Account</text>
+  </lang>
+  <lang slug="ACTIVITY REPORT"> 
+    <text>ACTIVITY REPORT</text>
+  </lang>
+  <lang slug="Follows back">  
+    <text>Follows back</text>
+  </lang>
+  <lang slug="Post Report"> 
+    <text>Post Report</text>
+  </lang>
+  <lang slug="Total process"> 
+    <text>Total process</text>
+  </lang>
+  <lang slug="Repost message">  
+    <text>Message Report</text>
+  </lang>
+  <lang slug="Please enther media url or media ID"> 
+    <text>Please enther media url or media ID</text>
+  </lang>
+  <lang slug="Keyword is required"> 
+    <text>Keyword is required</text>
+  </lang>
+  <lang slug="Download">  
+    <text>Download</text>
+  </lang>
+  <lang slug="Link media or media ID">  
+    <text>Link media or media ID</text>
+  </lang>
+  <lang slug="LOGIN"> 
+    <text>LOGIN</text>
+  </lang>
+  <lang slug="REGISTER">  
+    <text>REGISTER</text>
+  </lang>
+  <lang slug="Email"> 
+    <text>Email</text>
+  </lang>
+  <lang slug="Password">  
+    <text>Password</text>
+  </lang>
+  <lang slug="OR LOGIN VIA">  
+    <text>OR LOGIN VIA</text>
+  </lang>
+  <lang slug="Fullname">  
+    <text>Fullname</text>
+  </lang>
+  <lang slug="Email Address"> 
+    <text>Email Address</text>
+  </lang>
+  <lang slug="Confirm password">  
+    <text>Confirm password</text>
+  </lang>
+    
+  <lang slug="Select your timezone to start your campaign"> 
+    <text>Select your timezone to start your campaign</text>
+  </lang>
+  <lang slug="Save">  
+    <text>Save</text>
+  </lang>
+  <lang slug="Please input all fields"> 
+    <text>Please input all fields</text>
+  </lang>
+  <lang slug="This instagram account already exists"> 
+    <text>This instagram account already exists</text>
+  </lang>
+  <lang slug="Oh sorry! You have exceeded the number of accounts allowed, You are only allowed to update your account"> 
+    <text>Oh sorry! You have exceeded the number of accounts allowed, You are only allowed to update your account</text>
+  </lang>
+  <lang slug="Update successfully"> 
+    <text>Update successfully</text>
+  </lang>
+  <lang slug="Update failure">  
+    <text>Update failure</text>
+  </lang>
+  <lang slug="Action">  
+    <text>Action</text>
+  </lang>
+  <lang slug="Active">  
+    <text>Active</text>
+  </lang>
+  <lang slug="Deactive">  
+    <text>Deactive</text>
+  </lang>
+  <lang slug="Delete">  
+    <text>Delete</text>
+  </lang>
+  <lang slug="User">  
+    <text>User</text>
+  </lang>
+  <lang slug="Instagram ID">  
+    <text>Instagram ID</text>
+  </lang>
+  <lang slug="Update Token">  
+    <text>Update Token</text>
+  </lang>
+  <lang slug="Status">  
+    <text>Status</text>
+  </lang>
+  <lang slug="Option">  
+    <text>Option</text>
+  </lang>
+  <lang slug="Are you sure you want to delete this item?">  
+    <text>Are you sure you want to delete this item?</text>
+  </lang>
+  <lang slug="Update Instagram account">  
+    <text>Update Instagram account</text>
+  </lang>
+  <lang slug="Instagram username">  
+    <text>Instagram username</text>
+  </lang>
+  <lang slug="Instagram password">  
+    <text>Instagram password</text>
+  </lang>
+  <lang slug="Back">  
+    <text>Back</text>
+  </lang>
+  <lang slug="Activity Log">  
+    <text>Activity Log</text>
+  </lang>
+  <lang slug="Liked media"> 
+    <text>Liked media</text>
+  </lang>
+  <lang slug="Commented media"> 
+    <text>Commented media</text>
+  </lang>
+  <lang slug="Followed user"> 
+    <text>Followed user</text>
+  </lang>
+  <lang slug="Unfollowed user"> 
+    <text>Unfollowed user</text>
+  </lang>
+  <lang slug="Followed back user">  
+    <text>Followed back user</text>
+  </lang>
+  <lang slug="Reposted media">  
+    <text>Reposted media</text>
+  </lang>
+  <lang slug="All"> 
+    <text>All</text>
+  </lang>
+  <lang slug="Folow"> 
+    <text>Folow</text>
+  </lang>
+  <lang slug="All accounts">  
+    <text>All accounts</text>
+  </lang>
+  <lang slug="results"> 
+    <text>results</text>
+  </lang>
+  <lang slug="No recent actions"> 
+    <text>No recent actions</text>
+  </lang>
+  <lang slug="Auto direct message"> 
+    <text>Auto direct message</text>
+  </lang>
+  <lang slug="Message is required"> 
+    <text>Message is required</text>
+  </lang>
+  <lang slug="Time post is required"> 
+    <text>Time post is required</text>
+  </lang>
+  <lang slug="Cannot found any users">  
+    <text>Cannot found any users</text>
+  </lang>
+  <lang slug="Limit"> 
+    <text>Limit</text>
+  </lang>
+  <lang slug="Instagram account"> 
+    <text>Instagram account</text>
+  </lang>
+  <lang slug="Type">  
+    <text>Type</text>
+  </lang>
+  <lang slug="Followers"> 
+    <text>Followers</text>
+  </lang>
+  <lang slug="Following"> 
+    <text>Following</text>
+  </lang>
+  <lang slug="Write something...">  
+    <text>Write something...</text>
+  </lang>
+  <lang slug="Time post"> 
+    <text>Time post</text>
+  </lang>
+  <lang slug="Delay (minutes)"> 
+    <text>Delay (minutes)</text>
+  </lang>
+  <lang slug="minutes"> 
+    <text>minutes</text>
+  </lang>
+  <lang slug="Auto pause after complete"> 
+    <text>Auto pause after complete</text>
+  </lang>
+  <lang slug="No">  
+    <text>No</text>
+  </lang>
+  <lang slug="posts"> 
+    <text>posts</text>
+  </lang>
+  <lang slug="Time pause">  
+    <text>Time pause</text>
+  </lang>
+  <lang slug="Repeat post"> 
+    <text>Repeat post</text>
+  </lang>
+  <lang slug="days">  
+    <text>days</text>
+  </lang>
+  <lang slug="End day"> 
+    <text>End day</text>
+  </lang>
+  <lang slug="Save the schedule"> 
+    <text>Save the schedule</text>
+  </lang>
+  <lang slug="Name is required">  
+    <text>Name is required</text>
+  </lang>
+  <lang slug="Price is required"> 
+    <text>Price is required</text>
+  </lang>
+  <lang slug="Day is required"> 
+    <text>Day is required</text>
+  </lang>
+  <lang slug="Name">  
+    <text>Name</text>
+  </lang>
+  <lang slug="Price"> 
+    <text>Price</text>
+  </lang>
+  <lang slug="Day"> 
+    <text>Day</text>
+  </lang>
+  <lang slug="Default"> 
+    <text>Default</text>
+  </lang>
+  <lang slug="Update package">  
+    <text>Update package</text>
+  </lang>
+  <lang slug="Package name">  
+    <text>Package name</text>
+  </lang>
+  <lang slug="Package price"> 
+    <text>Package price</text>
+  </lang>
+  <lang slug="Package day"> 
+    <text>Package day</text>
+  </lang>
+  <lang slug="Package order"> 
+    <text>Package order</text>
+  </lang>
+  <lang slug="Package default"> 
+    <text>Package default</text>
+  </lang>
+  <lang slug="Yes"> 
+    <text>Yes</text>
+  </lang>
+  <lang slug="Free">  
+    <text>Free</text>
+  </lang>
+  <lang slug="Trial"> 
+    <text>Trial</text>
+  </lang>
+  <lang slug="Maximum Instagram account on user"> 
+    <text>Maximum Instagram account on user</text>
+  </lang>
+  <lang slug="List modules">  
+    <text>List modules</text>
+  </lang>
+  <lang slug="Auto post"> 
+    <text>Auto post</text>
+  </lang>
+  <lang slug="Auto message">  
+    <text>Auto message</text>
+  </lang>
+  <lang slug="Invoice"> 
+    <text>Invoice</text>
+  </lang>
+  <lang slug="First name">  
+    <text>First name</text>
+  </lang>
+  <lang slug="Last name"> 
+    <text>Last name</text>
+  </lang>
+  <lang slug="Receiver email">  
+    <text>Receiver email</text>
+  </lang>
+  <lang slug="Payer email"> 
+    <text>Payer email</text>
+  </lang>
+  <lang slug="Package"> 
+    <text>Package</text>
+  </lang>
+  <lang slug="Currency">  
+    <text>Currency</text>
+  </lang>
+  <lang slug="Street">  
+    <text>Street</text>
+  </lang>
+  <lang slug="City">  
+    <text>City</text>
+  </lang>
+  <lang slug="Country"> 
+    <text>Country</text>
+  </lang>
+  <lang slug="Payment date">  
+    <text>Payment date</text>
+  </lang>
+  <lang slug="Payment status">  
+    <text>Payment status</text>
+  </lang>
+  <lang slug="Paypal email is required">  
+    <text>Paypal email is required</text>
+  </lang>
+  <lang slug="Currency is required">  
+    <text>Currency is required</text>
+  </lang>
+  <lang slug="Paypal email">  
+    <text>Paypal email</text>
+  </lang>
+  <lang slug="Currency symbol"> 
+    <text>Currency symbol</text>
+  </lang>
+  <lang slug="PICK THE BEST PLAN FOR YOU!"> 
+    <text>PICK THE BEST PLAN FOR YOU!</text>
+  </lang>
+  <lang slug="Auto search"> 
+    <text>Auto search</text>
+  </lang>
+  <lang slug="Auto download"> 
+    <text>Auto download</text>
+  </lang>
+  <lang slug="UPGRADE NOW"> 
+    <text>UPGRADE NOW</text>
+  </lang>
+  <lang slug="Video is required"> 
+    <text>Video is required</text>
+  </lang>
+  <lang slug="Image is required"> 
+    <text>Image is required</text>
+  </lang>
+  <lang slug="Have problem with this item"> 
+    <text>Have problem with this item</text>
+  </lang>
+  <lang slug="Select at least a instagram account"> 
+    <text>Select at least a instagram account</text>
+  </lang>
+  <lang slug="The error occurred during processing">  
+    <text>The error occurred during processing</text>
+  </lang>
+  <lang slug="PHOTO"> 
+    <text>PHOTO</text>
+  </lang>
+  <lang slug="STORY PHOTO"> 
+    <text>STORY PHOTO</text>
+  </lang>
+  <lang slug="VIDEO"> 
+    <text>VIDEO</text>
+  </lang>
+  <lang slug="Image"> 
+    <text>Image</text>
+  </lang>
+  <lang slug="Upload">  
+    <text>Upload</text>
+  </lang>
+  <lang slug="Video URL"> 
+    <text>Video URL</text>
+  </lang>
+  <lang slug="Delay (seconds)"> 
+    <text>Delay (seconds)</text>
+  </lang>
+  <lang slug="seconds"> 
+    <text>seconds</text>
+  </lang>
+  <lang slug="Save post"> 
+    <text>Save post</text>
+  </lang>
+  <lang slug="Post now">  
+    <text>Post now</text>
+  </lang>
+  <lang slug="Schedule">  
+    <text>Schedule</text>
+  </lang>
+  <lang slug="Pause"> 
+    <text>Pause</text>
+  </lang>
+  <lang slug="Resume">  
+    <text>Resume</text>
+  </lang>
+  <lang slug="Time left:">  
+    <text>Time left:</text>
+  </lang>
+  <lang slug="Preview"> 
+    <text>Preview</text>
+  </lang>
+  <lang slug="Anonymous"> 
+    <text>Anonymous</text>
+  </lang>
+  <lang slug="like this"> 
+    <text>like this</text>
+  </lang>
+  <lang slug="Add a comment…">  
+    <text>Add a comment…</text>
+  </lang>
+  <lang slug="Save list"> 
+    <text>Save list</text>
+  </lang>
+  <lang slug="Select Instagram Accounts"> 
+    <text>Select Instagram Accounts</text>
+  </lang>
+  <lang slug="All categories">  
+    <text>All categories</text>
+  </lang>
+  <lang slug="Add new category">  
+    <text>Add new category</text>
+  </lang>
+  <lang slug="Update category"> 
+    <text>Update category</text>
+  </lang>
+  <lang slug="Remove category selected">  
+    <text>Remove category selected</text>
+  </lang>
+  <lang slug="Privacy"> 
+    <text>Privacy</text>
+  </lang>
+  <lang slug="Link">  
+    <text>Link</text>
+  </lang>
+  <lang slug="Process"> 
+    <text>Process</text>
+  </lang>
+  <lang slug="______">  
+    <text>______</text>
+  </lang>
+  <lang slug="Visit page">  
+    <text>Visit page</text>
+  </lang>
+  <lang slug="Select category"> 
+    <text>Select category</text>
+  </lang>
+  <lang slug="Update">  
+    <text>Update</text>
+  </lang>
+  <lang slug="Auto like"> 
+    <text>Auto like</text>
+  </lang>
+  <lang slug="Reconect">  
+    <text>Reconect</text>
+  </lang>
+  <lang slug="Auto Repost Media"> 
+    <text>Auto Repost Media</text>
+  </lang>
+  <lang slug="Location">  
+    <text>Location</text>
+  </lang>
+  <lang slug="Delete all hashtags"> 
+    <text>Delete all hashtags</text>
+  </lang>
+  <lang slug="Add now"> 
+    <text>Add now</text>
+  </lang>
+  <lang slug="Save management"> 
+    <text>Save management</text>
+  </lang>
+  <lang slug="Save successfully"> 
+    <text>Save successfully</text>
+  </lang>
+  <lang slug="Category">  
+    <text>Category</text>
+  </lang>
+  <lang slug="Schedules"> 
+    <text>Schedules</text>
+  </lang>
+  <lang slug="Select at least one account instagram"> 
+    <text>Select at least one account instagram</text>
+  </lang>
+  <lang slug="Activity not exist">  
+    <text>Activity not exist</text>
+  </lang>
+  <lang slug="Are you sure you want to delete all items?">  
+    <text>Are you sure you want to delete all items?</text>
+  </lang>
+  <lang slug="Created"> 
+    <text>Created</text>
+  </lang>
+  <lang slug="Instagram account does not exist">  
+    <text>Instagram account does not exist</text>
+  </lang>
+  <lang slug="Please enter hashtag">  
+    <text>Please enter hashtag</text>
+  </lang>
+  <lang slug="Please enter location"> 
+    <text>Please enter location</text>
+  </lang>
+  <lang slug="Please enter username"> 
+    <text>Please enter username</text>
+  </lang>
+  <lang slug="Add Comments">  
+    <text>Add Comments</text>
+  </lang>
+  <lang slug="taga,tagb,tagc,...">  
+    <text>taga,tagb,tagc,...</text>
+  </lang>
+  <lang slug="Add Tags">  
+    <text>Add Tags</text>
+  </lang>
+  <lang slug="Close"> 
+    <text>Close</text>
+  </lang>
+  <lang slug="Add Messages">  
+    <text>Add Messages</text>
+  </lang>
+  <lang slug="comment a,comment b,comment c,..."> 
+    <text>comment a,comment b,comment c,...</text>
+  </lang>
+  <lang slug="Add Locations"> 
+    <text>Add Locations</text>
+  </lang>
+  <lang slug="Enter location name"> 
+    <text>Enter location name</text>
+  </lang>
+  <lang slug="Search Tag">  
+    <text>Search Tag</text>
+  </lang>
+  <lang slug="Add Multi Tags">  
+    <text>Add Multi Tags</text>
+  </lang>
+  <lang slug="Hashtag"> 
+    <text>Hashtag</text>
+  </lang>
+  <lang slug="Add Usernames"> 
+    <text>Add Usernames</text>
+  </lang>
+  <lang slug="No."> 
+    <text>No.</text>
+  </lang>
+  <lang slug="ID">  
+    <text>ID</text>
+  </lang>
+  <lang slug="Media count"> 
+    <text>Media count</text>
+  </lang>
+  <lang slug="Avatar">  
+    <text>Avatar</text>
+  </lang>
+  <lang slug="Private"> 
+    <text>Private</text>
+  </lang>
+  <lang slug="Verified">  
+    <text>Verified</text>
+  </lang>
+  <lang slug="Keyword"> 
+    <text>Keyword</text>
+  </lang>
+  <lang slug="Website title is required"> 
+    <text>Website title is required</text>
+  </lang>
+  <lang slug="Public key is required">  
+    <text>Public key is required</text>
+  </lang>
+  <lang slug="Secret key is required">  
+    <text>Secret key is required</text>
+  </lang>
+  <lang slug="LICENSE"> 
+    <text>LICENSE</text>
+  </lang>
+  <lang slug="Purchase code"> 
+    <text>Purchase code</text>
+  </lang>
+  <lang slug="GENARAL"> 
+    <text>GENARAL</text>
+  </lang>
+  <lang slug="SCHEDULE DEFAULT">  
+    <text>SCHEDULE DEFAULT</text>
+  </lang>
+  <lang slug="POST DEFAULT">  
+    <text>POST DEFAULT</text>
+  </lang>
+  <lang slug="LOGIN SOCIAL">  
+    <text>LOGIN SOCIAL</text>
+  </lang>
+  <lang slug="LINK SOCIAL PAGE">  
+    <text>LINK SOCIAL PAGE</text>
+  </lang>
+  <lang slug="Website name">  
+    <text>Website name</text>
+  </lang>
+  <lang slug="Website description"> 
+    <text>Website description</text>
+  </lang>
+  <lang slug="Website keywords">  
+    <text>Website keywords</text>
+  </lang>
+  <lang slug="Website logo">  
+    <text>Website logo</text>
+  </lang>
+  <lang slug="Theme color"> 
+    <text>Theme color</text>
+  </lang>
+  <lang slug="Timezone server"> 
+    <text>Timezone server</text>
+  </lang>
+  <lang slug="Default language">  
+    <text>Default language</text>
+  </lang>
+  <lang slug="Add new language">  
+    <text>Add new language</text>
+  </lang>
+  <lang slug="View demo"> 
+    <text>View demo</text>
+  </lang>
+  <lang slug="Register user"> 
+    <text>Register user</text>
+  </lang>
+  <lang slug="Auto active user">  
+    <text>Auto active user</text>
+  </lang>
+  <lang slug="Follows / hour (user)"> 
+    <text>Follows / hour (user)</text>
+  </lang>
+  <lang slug="Follows back / hour (user)">  
+    <text>Follows back / hour (user)</text>
+  </lang>
+  <lang slug="Unfollows / hour (user)"> 
+    <text>Unfollows / hour (user)</text>
+  </lang>
+  <lang slug="Default delay every post on post now">  
+    <text>Default delay every post on post now</text>
+  </lang>
+  <lang slug="Minimum delay every post on post now">  
+    <text>Minimum delay every post on post now</text>
+  </lang>
+  <lang slug="Default delay every post on schedule">  
+    <text>Default delay every post on schedule</text>
+  </lang>
+  <lang slug="Minimum delay every post on schedule">  
+    <text>Minimum delay every post on schedule</text>
+  </lang>
+  <lang slug="Maximum size of file uploads">  
+    <text>Maximum size of file uploads</text>
+  </lang>
+  <lang slug="MB">  
+    <text>MB</text>
+  </lang>
+  <lang slug="Facebook ID"> 
+    <text>Facebook ID</text>
+  </lang>
+  <lang slug="Facebook Secret"> 
+    <text>Facebook Secret</text>
+  </lang>
+  <lang slug="Googe Client ID"> 
+    <text>Googe Client ID</text>
+  </lang>
+  <lang slug="Google Client Secret">  
+    <text>Google Client Secret</text>
+  </lang>
+  <lang slug="Twitter Consumer Secret"> 
+    <text>Twitter Consumer Secret</text>
+  </lang>
+  <lang slug="Facebook">  
+    <text>Facebook</text>
+  </lang>
+  <lang slug="Twitter"> 
+    <text>Twitter</text>
+  </lang>
+  <lang slug="Pinterest"> 
+    <text>Pinterest</text>
+  </lang>
+  <lang slug="Fullname is required">  
+    <text>Fullname is required</text>
+  </lang>
+  <lang slug="Email is required"> 
+    <text>Email is required</text>
+  </lang>
+  <lang slug="Invalid email format">  
+    <text>Invalid email format</text>
+  </lang>
+  <lang slug="Package is required"> 
+    <text>Package is required</text>
+  </lang>
+  <lang slug="Expiration date is required"> 
+    <text>Expiration date is required</text>
+  </lang>
+  <lang slug="Timezone is required">  
+    <text>Timezone is required</text>
+  </lang>
+  <lang slug="Password is required">  
+    <text>Password is required</text>
+  </lang>
+  <lang slug="Passwords must be at least 6 characters"> 
+    <text>Passwords must be at least 6 characters</text>
+  </lang>
+  <lang slug="Password incorrect">  
+    <text>Password incorrect</text>
+  </lang>
+  <lang slug="Login successfully">  
+    <text>Login successfully</text>
+  </lang>
+  <lang slug="Your account has not been activated"> 
+    <text>Your account has not been activated</text>
+  </lang>
+  <lang slug="Username or password incorrect">  
+    <text>Username or password incorrect</text>
+  </lang>
+  <lang slug="Register successfully"> 
+    <text>Register successfully</text>
+  </lang>
+  <lang slug="Email already exists">  
+    <text>Email already exists</text>
+  </lang>
+  <lang slug="Admin"> 
+    <text>Admin</text>
+  </lang>
+  <lang slug="Expiration date"> 
+    <text>Expiration date</text>
+  </lang>
+  <lang slug="Timezone">  
+    <text>Timezone</text>
+  </lang>
+  <lang slug="Changed"> 
+    <text>Changed</text>
+  </lang>
+  <lang slug="No package">  
+    <text>No package</text>
+  </lang>
+  <lang slug="Update profile">  
+    <text>Update profile</text>
+  </lang>
+  <lang slug="Package info">  
+    <text>Package info</text>
+  </lang>
+  <lang slug="Time zone"> 
+    <text>Time zone</text>
+  </lang>
+  <lang slug="Re-password"> 
+    <text>Re-password</text>
+  </lang>
+  <lang slug="Update user"> 
+    <text>Update user</text>
+  </lang>
+  <lang slug="Deleted"> 
+    <text>Deleted</text>
+  </lang>
+  <lang slug="Select at least one item">  
+    <text>Select at least one item</text>
+  </lang>
+  <lang slug="Select at least one Instagram account"> 
+    <text>Select at least one Instagram account</text>
+  </lang>
+  <lang slug="No data available in table">  
+    <text>No data available in table</text>
+  </lang>
+  <lang slug="Please wait...">  
+    <text>Please wait...</text>
+  </lang>
+  <lang slug="Please buy one of packages to use"> 
+    <text>Please buy one of packages to use</text>
+  </lang>
+  <lang slug="title"> 
+    <text>title</text>
+  </lang>
+  <lang slug="Total success"> 
+    <text>Total success</text>
+  </lang>
+  <lang slug="Total failure"> 
+    <text>Total failure</text>
+  </lang>
+  <lang slug="Total processing">  
+    <text>Total processing</text>
+  </lang>
+  <lang slug="message success"> 
+    <text>message success</text>
+  </lang>
+  <lang slug="message failure"> 
+    <text>message failure</text>
+  </lang>
+  <lang slug="message processing">  
+    <text>message processing</text>
+  </lang>
+  <lang slug="Follow Back">  
+    <text>Follow Back</text>
+  </lang>
+
+
+  <lang slug="Newest">  
+    <text>Newest</text>
+  </lang>
+  <lang slug="1 Hour">  
+    <text>1 Hour</text>
+  </lang>
+  <lang slug="12 Hours">  
+    <text>12 Hours</text>
+  </lang>
+  <lang slug="1 Day">  
+    <text>1 Day</text>
+  </lang>
+  <lang slug="3 Days">  
+    <text>3 Days</text>
+  </lang>
+  <lang slug="1 Week">  
+    <text>1 Week</text>
+  </lang>
+  <lang slug="2 Weeks">  
+    <text>2 Weeks</text>
+  </lang>
+  <lang slug="1 Month">  
+    <text>1 Month</text>
+  </lang>
+  <lang slug="Any">  
+    <text>Any</text>
+  </lang>
+  <lang slug="This setting will help you to choose an age of media you want to interact with. From the newest one to the oldest.&lt;br/&gt;&lt;br/&gt; For example: select &lt;b&gt;1 Day&lt;/b&gt; if you want to interact only with media that not older than one day.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Newest&lt;/b&gt; media age was previously known as &lt;b&gt;New media only&lt;/b&gt;.">  
+    <text>This setting will help you to choose an age of media you want to interact with. From the newest one to the oldest.&lt;br/&gt;&lt;br/&gt; For example: select &lt;b&gt;1 Day&lt;/b&gt; if you want to interact only with media that not older than one day.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Newest&lt;/b&gt; media age was previously known as &lt;b&gt;New media only&lt;/b&gt;.</text>
+  </lang>
+  <lang slug="This setting lets you interact only with specific media type: &lt;b&gt;Photos&lt;/b&gt; or &lt;b&gt;Videos&lt;/b&gt;. Also, you can choose &lt;b&gt;Any&lt;/b&gt; to interact with any media type.">  
+    <text>This setting lets you interact only with specific media type: &lt;b&gt;Photos&lt;/b&gt; or &lt;b&gt;Videos&lt;/b&gt;. Also, you can choose &lt;b&gt;Any&lt;/b&gt; to interact with any media type.</text>
+  </lang>
+  <lang slug="Interact only with media that have minimum selected amount of likes.&lt;br/&gt;&lt;br/&gt; Use it along with &lt;b&gt;Max. likes filter&lt;/b&gt; to set desired range of media popularity.&lt;br/&gt;&lt;br/&gt; Recommended value: 0.&lt;br/&gt;&lt;br/&gt; Set to zero to disable this filter.">  
+    <text>Interact only with media that have minimum selected amount of likes.&lt;br/&gt;&lt;br/&gt; Use it along with &lt;b&gt;Max. likes filter&lt;/b&gt; to set desired range of media popularity.&lt;br/&gt;&lt;br/&gt; Recommended value: 0.&lt;br/&gt;&lt;br/&gt; Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="Interact only with media that have maximum selected amount of likes.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. likes filter&lt;/b&gt; to set desired rangeof media popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 50-100.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with media that have maximum selected amount of likes.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. likes filter&lt;/b&gt; to set desired rangeof media popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 50-100.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="Interact only with media that have minimum selected amount of comments.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Max. comments filter&lt;/b&gt; to set desired rangeof media popularity.&lt;br/&gt;&lt;br/&gt;Recommended value: 0.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with media that have minimum selected amount of comments.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Max. comments filter&lt;/b&gt; to set desired rangeof media popularity.&lt;br/&gt;&lt;br/&gt;Recommended value: 0.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="Interact only with media that have maximum selected amount of comments.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. comments filter&lt;/b&gt; to set desired rangeof media popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 20-50.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with media that have maximum selected amount of comments.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. comments filter&lt;/b&gt; to set desired rangeof media popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 20-50.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="This filter will help you to exclude your own followers/followings from Liking, Commenting and Following activity:&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Off&lt;/b&gt; - Filter is turned off.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Followers&lt;/b&gt; - You will not interact with your followers and their media.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Followings&lt;/b&gt; - You will not interact with your followings and their media.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Both&lt;/b&gt; - You will not interact with your followers and followings and their media.">  
+    <text>This filter will help you to exclude your own followers/followings from Liking, Commenting and Following activity:&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Off&lt;/b&gt; - Filter is turned off.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Followers&lt;/b&gt; - You will not interact with your followers and their media.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Followings&lt;/b&gt; - You will not interact with your followings and their media.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Both&lt;/b&gt; - You will not interact with your followers and followings and their media.</text>
+  </lang>
+  <lang slug="This filter will help you to avoid inappropriate and unwanted users and their media during your activity:&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Off&lt;/b&gt; - Filter is turned off.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Low&lt;/b&gt; - Excludes users who have no avatar or have no posted media.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Medium&lt;/b&gt; - Excludes users who have no avatar, have less than 10 postedmedia or have no name in the profile.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;High&lt;/b&gt; - Excludes users who have no avatar, have less than 30 postedmedia, have no name in the profile or have no bio.">  
+    <text>This filter will help you to avoid inappropriate and unwanted users and their media during your activity:&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Off&lt;/b&gt; - Filter is turned off.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Low&lt;/b&gt; - Excludes users who have no avatar or have no posted media.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Medium&lt;/b&gt; - Excludes users who have no avatar, have less than 10 postedmedia or have no name in the profile.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;High&lt;/b&gt; - Excludes users who have no avatar, have less than 30 postedmedia, have no name in the profile or have no bio.</text>
+  </lang>
+  <lang slug="Interact only with users that have minimum selected amount of followers.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Max. followers filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 0-50.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with users that have minimum selected amount of followers.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Max. followers filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 0-50.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="Interact only with users that have maximum selected amount of followers.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. followers filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 500-1000.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with users that have maximum selected amount of followers.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. followers filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 500-1000.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="Interact only with users that have minimum selected amount of followings.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Max. followings filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 50-100.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with users that have minimum selected amount of followings.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Max. followings filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 50-100.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="Interact only with users that have maximum selected amount of followings.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. followings filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 300-500.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with users that have maximum selected amount of followings.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. followings filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 300-500.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="&lt;b&gt;Off&lt;/b&gt; - Filter is turned off.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Female&lt;/b&gt; - Interact only with users and their mediawhose gender has been determined as female.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Male&lt;/b&gt; - Interact only with users and their mediawhose gender has been determined as male.&lt;br/&gt;&lt;br/&gt;&lt;span class=&#39;col-blue&#39;&gt;INFO:&lt;/span&gt; This filter analyzes fullnames of the user profiles and cannot guarantee 100% accuracy.&lt;br/&gt;&lt;br/&gt;&lt;span class=&#39;col-orange&#39;&gt;WARNING:&lt;/span&gt; This filter can slow downor completely stop your activity if the system will not be ableto find accounts based on the selected option.">  
+    <text>&lt;b&gt;Off&lt;/b&gt; - Filter is turned off.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Female&lt;/b&gt; - Interact only with users and their mediawhose gender has been determined as female.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Male&lt;/b&gt; - Interact only with users and their mediawhose gender has been determined as male.&lt;br/&gt;&lt;br/&gt;&lt;span class=&#39;col-blue&#39;&gt;INFO:&lt;/span&gt; This filter analyzes fullnames of the user profiles and cannot guarantee 100% accuracy.&lt;br/&gt;&lt;br/&gt;&lt;span class=&#39;col-orange&#39;&gt;WARNING:&lt;/span&gt; This filter can slow downor completely stop your activity if the system will not be ableto find accounts based on the selected option.</text>
+  </lang>
+  <lang slug="Photos">  
+    <text>Photos</text>
+  </lang>
+  <lang slug="Videos">  
+    <text>Videos</text>
+  </lang>
+  <lang slug="Followings">  
+    <text>Followings</text>
+  </lang>
+  <lang slug="Both">  
+    <text>Both</text>
+  </lang>
+  <lang slug="Off">  
+    <text>Off</text>
+  </lang>
+  <lang slug="Low">  
+    <text>Low</text>
+  </lang>
+  <lang slug="Medium">  
+    <text>Medium</text>
+  </lang>
+  <lang slug="High">  
+    <text>High</text>
+  </lang>
+  <lang slug="Media age">  
+    <text>Media age</text>
+  </lang>
+  <lang slug="Media type">  
+    <text>Media type</text>
+  </lang>
+  <lang slug="Min. likes filter">  
+    <text>Min. likes filter</text>
+  </lang>
+  <lang slug="Max. likes filter">  
+    <text>Max. likes filter</text>
+  </lang>
+  <lang slug="Min. comments filter">  
+    <text>Min. comments filter</text>
+  </lang>
+  <lang slug="Max. comments filter">  
+    <text>Max. comments filter</text>
+  </lang>
+  <lang slug="User relation filter">  
+    <text>User relation filter</text>
+  </lang>
+  <lang slug="User profile filter">  
+    <text>User profile filter</text>
+  </lang>
+  <lang slug="Min. followers filter">  
+    <text>Min. followers filter</text>
+  </lang>
+  <lang slug="Max. followers filter">  
+    <text>Max. followers filter</text>
+  </lang>
+  <lang slug="Min. followings filter">  
+    <text>Min. followings filter</text>
+  </lang>
+  <lang slug="Max. followings filter">  
+    <text>Max. followings filter</text>
+  </lang>
+  <lang slug="Gender filter">  
+    <text>Gender filter</text>
+  </lang>
+  <lang slug="Filters">  
+    <text>Filters</text>
+  </lang>
+  <lang slug="Female">  
+    <text>Female</text>
+  </lang>
+  <lang slug="Male">  
+    <text>Male</text>
+  </lang>
+  <lang slug="Delete media">  
+    <text>Delete media</text>
+  </lang>
+  <lang slug="Connect failure">  
+    <text>Connect failure</text>
+  </lang>
+  <lang slug="Delete media / hour (post)">  
+    <text>Delete media / hour (post)</text>
+  </lang>
+  <lang slug="Deleted media">  
+    <text>Deleted media</text>
+  </lang>
+  <lang slug="Please go to &lt;a href=&#39;http://instagram.com/&#39; target=&#39;_blank&#39;&gt;http://instagram.com/&lt;/a&gt; to verify email and then login at here again">  
+    <text>Please go to &lt;a href=&#39;http://instagram.com/&#39; target=&#39;_blank&#39;&gt;http://instagram.com/&lt;/a&gt; to verify email and then login at here again</text>
+  </lang>
+
+  <!--Version 1.4-->
+  <lang slug="Maximum instagram accounts">  
+    <text>Maximum instagram accounts</text>
+  </lang>
+  <lang slug="Out of date! System auto stop all activity on your instagram accounts.">  
+    <text>Out of date! System auto stop all activity on your instagram accounts.</text>
+  </lang>
+  <lang slug="Out of date! Please select a package below to continue using">  
+    <text>Out of date! Please select a package below to continue using</text>
+  </lang>
+  <lang slug="To start using app add your first Instagram account">  
+    <text>To start using app add your first Instagram account</text>
+  </lang>
+  <lang slug="Make sure that e-mail, which you used for registration in Instagram is real, and you have access to it.">  
+    <text>Make sure that e-mail, which you used for registration in Instagram is real, and you have access to it.</text>
+  </lang>
+  <lang slug="E-mail, which you used for registration in Instagram is confirmed and approved by Instagram.">  
+    <text>E-mail, which you used for registration in Instagram is confirmed and approved by Instagram.</text>
+  </lang>
+  <lang slug="It is strongly recommended to bind your Instagram account to any Facebook page.">  
+    <text>It is strongly recommended to bind your Instagram account to any Facebook page.</text>
+  </lang>
+  <lang slug="Upload avatar and fill in your profile.">  
+    <text>Upload avatar and fill in your profile.</text>
+  </lang>
+  <lang slug="Add at least 6 photos to your account from mobile phone.">  
+    <text>Add at least 6 photos to your account from mobile phone.</text>
+  </lang>
+  <lang slug="Ensure that your content does not violate the rules of Instagram. We are not responsible for your actions and their consequences.">  
+    <text>Ensure that your content does not violate the rules of Instagram. We are not responsible for your actions and their consequences.</text>
+  </lang>
+  <lang slug="How to use">  
+    <text>How to use</text>
+  </lang>
+  <lang slug="I understand and close it">  
+    <text>I understand and close it</text>
+  </lang>
+  <lang slug="You need Extended License to your users can payment via paypal to use">  
+    <text>You need Extended License to your users can payment via paypal to use</text>
+  </lang>
+  <lang slug="Please check your email to reset password"> 
+    <text>Please check your email to reset password</text>
+  </lang>
+  <lang slug="This email address does not exist"> 
+    <text>This email address does not exist</text>
+  </lang>
+  <lang slug="This email address does not exist"> 
+    <text>This email address does not exist</text>
+  </lang>
+  <lang slug="An error occurred. Please try again later"> 
+    <text>An error occurred. Please try again later</text>
+  </lang>
+  <lang slug="Click into link to reset your password">  
+    <text>Click into link to reset your password</text>
+  </lang>
+  <lang slug="Forgot password"> 
+    <text>Forgot password</text>
+  </lang>
+  <lang slug="Reset password">  
+    <text>Reset password</text>
+  </lang>
+  <lang slug="Reset password key not exists"> 
+    <text>Reset password key not exists</text>
+  </lang>
+
+
+
+  <!--Version 1.2-->
+  <lang slug="PHOTO CAROUSEL">  
+    <text>PHOTO CAROUSEL</text>
+  </lang>
+  <lang slug="STORY VIDEO">  
+    <text>STORY VIDEO</text>
+  </lang>
+  <lang slug="Proxy">  
+    <text>Proxy</text>
+  </lang>
+  <lang slug="Proxy management">  
+    <text>Proxy management</text>
+  </lang>
+  <lang slug="Likers">  
+    <text>Likers</text>
+  </lang>
+  <lang slug="Commenters">  
+    <text>Commenters</text>
+  </lang>
+  <lang slug="Auto send message to new followers when you followback">  
+    <text>Auto send message to new followers when you followback</text>
+  </lang>
+  <lang slug="Please update password on this account to continue use">  
+    <text>Please update password on this account to continue use</text>
+  </lang>
+  <lang slug="Please check proxy and then click button MORE and select RECONNECT">  
+    <text>Please check proxy and then click button MORE and select RECONNECT</text>
+  </lang>
+  <lang slug="Using IP Host (Not recommend)">  
+    <text>Using IP Host (Not recommend)</text>
+  </lang>
+  <lang slug="Select proxy">  
+    <text>Select proxy</text>
+  </lang>
+  <lang slug="Coupon is required">  
+    <text>Coupon is required</text>
+  </lang>
+  <lang slug="Discount type">  
+    <text>Discount type</text>
+  </lang>
+  <lang slug="Percent">  
+    <text>Percent</text>
+  </lang>
+  <lang slug="Review and Checkout">  
+    <text>Review and Checkout</text>
+  </lang>
+  <lang slug="Subtotal">  
+    <text>Subtotal</text>
+  </lang>
+  <lang slug="Package name">  
+    <text>Package name</text>
+  </lang>
+  <lang slug="Validate Code">  
+    <text>Validate Code</text>
+  </lang>
+  <lang slug="Promotional Code">  
+    <text>Promotional Code</text>
+  </lang>
+  <lang slug="Promotional code is required">  
+    <text>Promotional code is required</text>
+  </lang>
+  <lang slug="The promotion code entered does not exist">  
+    <text>The promotion code entered does not exist</text>
+  </lang>
+  <lang slug="Total:">  
+    <text>Total:</text>
+  </lang>
+  <lang slug="Discount:">  
+    <text>Discount:</text>
+  </lang>
+  <lang slug="Subtotal:">  
+    <text>Subtotal:</text>
+  </lang>
+  <lang slug="The package does not exist">  
+    <text>The package does not exist</text>
+  </lang>
+  <lang slug="The promotion code you entered has been applied to your package but no items qualify for the discount yet">  
+    <text>The promotion code you entered has been applied to your package but no items qualify for the discount yet</text>
+  </lang>
+  <lang slug="Stripe Payment">  
+    <text>Stripe Payment</text>
+  </lang>
+  <lang slug="The promotion code expired">  
+    <text></text>
+  </lang>
+  <lang slug="The promotion code expired">  
+    <text>The promotion code expired</text>
+  </lang>
+  <lang slug="Pay">  
+    <text>Pay</text>
+  </lang>
+
+  <lang slug="Blacklists">  
+    <text>Blacklists</text>
+  </lang>
+  <lang slug="Tags blacklist">  
+    <text>Tags blacklist</text>
+  </lang>
+  <lang slug="Add Tags">  
+    <text>Add Tags</text>
+  </lang>
+  <lang slug="Add some tags to this list if you want to skip media marked by these tags from liking and/or commenting activity.You will skip the users from lacklisted tags as well.You can add up to 3000 tags in this list.">  
+    <text>Add some tags to this list if you want to skip media marked by these tags from liking and/or commenting activity.&lt;br/&gt;&lt;br/&gt; You will skip the users from lacklisted tags as well.You can add up to 3000 tags in this list.</text>
+  </lang>
+  <lang slug="Usernames blacklist">  
+    <text>Usernames blacklist</text>
+  </lang>
+  <lang slug="Add Usernames">  
+    <text>Add Usernames</text>
+  </lang>
+  <lang slug="Add some usernames to this list if you want to skip users from following or also from unfollowing activity. You will skip the media from blacklisted users as well. You can add up to 3000 usernames in this list.">  
+    <text>Add some usernames to this list if you want to skip users from following or also from unfollowing activity. You will skip the media from blacklisted users as well.&lt;br/&gt;&lt;br/&gt;  You can add up to 3000 usernames in this list.</text>
+  </lang>
+  <lang slug="Keywords blacklist">  
+    <text>Keywords blacklist</text>
+  </lang>
+  <lang slug="Add Keywords">  
+    <text>Add Keywords</text>
+  </lang>
+  <lang slug="Add some keywords to this list that you don't want to interact with. This filter will search for stop keywords in media (tags and caption) and in user (username, full name, bio and website), and will prevent Software from interacting with unwanted content. For example: add playboy keyword to exclude all content that contains any words that start with playboy You can add up to 3000 keywords in this list.">  
+    <text>Add some keywords to this list that you don't want to interact with. This filter will search for stop keywords in media (tags and caption) and in user (username, full name, bio and website), and will prevent Software from interacting with unwanted content.&lt;b&gt;*&lt;/b&gt; For example: add &lt;b&gt;playboy&lt;/b&gt; keyword to exclude all content that contains any words that start with &lt;b&gt;playboy&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt; You can add up to 3000 keywords in this list.</text>
+  </lang>
+  
+  <lang slug="Timer">  
+    <text>Timer</text>
+  </lang>
+    <lang slug="This function will help you unfollow your activity automatically for specified period of time">
+        <text>This function will help you unfollow your activity automatically for specified period of time. &lt;br/&gt;&lt;br/&gt;</text>
+    </lang>
+  <lang slug="For example, If you select 24 hours and Our service from Unfollow source, the system will unfollow people who you followed last 24 hours">
+    <text>For example, If you select &lt;b&gt;24 hours&lt;/b&gt; and &lt;b&gt;IGPlan&lt;/b&gt; from &lt;b&gt;Unfollow source&lt;/b&gt;, the software will unfollow people software followed after &lt;b&gt;24 hours &lt;/b&gt;of following.</text>
+  </lang>
+  <lang slug="Unfollow">  
+    <text>Unfollow</text>
+  </lang>
+  
+  <lang slug="Unfollow source">  
+    <text>Unfollow source</text>
+  </lang>  
+
+  <lang slug="All">  
+    <text>All</text>
+  </lang>
+
+  <lang slug="Software">  
+    <text>Our service</text>
+  </lang>
+
+  <lang slug="Which users to unfollow? Software — select this option if you want to unfollow only users that were followed by our service. This option should be used in most cases, especially if you use Follow and Unfollow actions at the same time. All — select this option if you want to unfollow all users that you follow.">  
+    <text>Which users to unfollow?&lt;br/&gt;&lt;br/&gt; &lt;b&gt;Our service&lt;/b&gt; — select this option if you want to unfollow only users that were followed by our service.&lt;br/&gt;This option should be used in most cases, especially if you use Follow and Unfollow actions at the same time.&lt;br/&gt;&lt;br/&gt; &lt;b&gt;All&lt;/b&gt; — select this option if you want to unfollow all users that you follow.</text>
+  </lang>
+
+  
+  <lang slug="Don't unfollow my followers">  
+    <text>Don't unfollow my followers</text>
+  </lang>
+
+  <lang slug="When turning on this box you will not unfollow users who follow you back.">  
+    <text>When turning on this box you will not unfollow users who follow you back.</text>
+  </lang>
+
+  <!-- Proxy -->
+  <lang slug="Default maximum Instagram accounts on each Proxy">
+    <text>Default maximum Instagram accounts on each Proxy</text>
+  </lang>  
+  <lang slug="accounts">
+    <text>accounts</text>
+  </lang>
+  <lang slug="Recommended 5~10 accounts/proxy">
+    <text>Recommended 5~10 accounts/proxy</text>
+  </lang>  
+  <lang slug="PROXY SETTING">
+    <text>PROXY SETTING</text>
+  </lang>
+  <lang slug="(View Detail)">
+    <text>(View Detail)</text>
+  </lang>
+  <lang slug="List of instagram accounts on proxy">
+    <text>List of instagram accounts on proxy</text>
+  </lang>
+  <lang slug="Instagram Accounts">
+    <text>Instagram Accounts</text>
+  </lang>
+
+  <lang slug="We are currently at capacity. Someone from our support team will contact you within the next 6 hours to help you set your account up.">
+    <text>We are currently at capacity. Someone from our support team will contact you within the next 6 hours to help you set your account up.</text>
+  </lang>
+
+</data>

@@ -1,0 +1,61 @@
+/*@media only screen and (max-width: 2400px) and (min-width: 1920px){*/
+@media only screen and (min-width: 1920px){
+    /*.box-login{*/
+    /*min-height: 500px;*/
+    /*min-height: 1040px;*/
+    /*}*/
+
+    #mk-footer{
+        bottom: 0 !important;
+        position: fixed !important;
+    }
+
+}
+
+/*@media only screen and (max-width: 1919px) and (min-width: 1280px){*/
+@media only screen and (min-width: 1280px){
+    .box-login{
+        min-height: 342px !important;
+        /*min-height: 501px;*/
+    }
+    /*#mk-footer{*/
+    /*bottom: 0;*/
+    /*position: fixed;*/
+    /*}*/
+}
+
+@media only screen and (min-width: 1600px){
+    /*.box-login{*/
+    /*min-height: 342px;*/
+    /*min-height: 501px;*/
+    /*}*/
+    #mk-footer{
+        bottom: 0 !important;
+        position: fixed !important;
+    }
+}
+
+@media only screen and (min-width: 1200px){
+    .box-login{
+        /*min-height: 342px !important;*/
+        min-height: 412px !important;
+        /*min-height: 486px !important;*/
+        /*min-height: 501px;*/
+    }
+
+}
+
+@media only screen and (min-width: 1367px){
+    /*.box-login{*/
+        /*min-height: 342px !important;*/
+        /*min-height: 412px !important;*/
+        /*min-height: 486px !important;*/
+        /*min-height: 501px;*/
+    /*}*/
+    #mk-footer{
+        bottom: 0 !important;
+        position: fixed !important;
+    }
+
+}
+

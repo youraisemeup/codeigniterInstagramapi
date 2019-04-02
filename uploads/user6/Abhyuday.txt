@@ -1,0 +1,687 @@
+InstagramAPI\Exception\EndpointException Object
+(
+    [message:protected] => challenge_required.
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/di287239/biz-training.eu/app/vendor/mgp25/instagram-php/src/Exception/ServerMessageThrower.php
+    [line:protected] => 88
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/di287239/biz-training.eu/app/vendor/mgp25/instagram-php/src/Client.php
+                    [line] => 437
+                    [function] => autoThrow
+                    [class] => InstagramAPI\Exception\ServerMessageThrower
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => InstagramAPI\Response\LoginResponse
+                            [1] => challenge_required
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/di287239/biz-training.eu/app/vendor/mgp25/instagram-php/src/Request.php
+                    [line] => 106
+                    [function] => getMappedResponseObject
+                    [class] => InstagramAPI\Client
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => InstagramAPI\Response\LoginResponse Object
+                                (
+                                    [username] => 
+                                    [has_anonymous_profile_picture] => 
+                                    [profile_pic_url] => 
+                                    [profile_pic_id] => 
+                                    [full_name] => 
+                                    [pk] => 
+                                    [is_private] => 
+                                    [error_title] => 
+                                    [error_type] => checkpoint_challenge_required
+                                    [buttons] => 
+                                    [invalid_credentials] => 
+                                    [logged_in_user] => 
+                                    [status] => fail
+                                    [message] => challenge_required
+                                    [fullResponse] => 
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [message] => challenge_required
+                                    [challenge] => stdClass Object
+                                        (
+                                            [url] => https://i.instagram.com/challenge/5988584955/8kjnwH5dcQ/
+                                            [api_path] => /challenge/5988584955/8kjnwH5dcQ/
+                                            [hide_webview_header] => 1
+                                            [lock] => 1
+                                            [logout] => 
+                                            [native_flow] => 1
+                                        )
+
+                                    [status] => fail
+                                    [error_type] => checkpoint_challenge_required
+                                )
+
+                            [2] => 1
+                            [3] => Array
+                                (
+                                    [0] => WuDHhL7St7ldaS8mYKv4HKgsHFzF4rtT
+                                    [1] => stdClass Object
+                                        (
+                                            [message] => challenge_required
+                                            [challenge] => stdClass Object
+                                                (
+                                                    [url] => https://i.instagram.com/challenge/5988584955/8kjnwH5dcQ/
+                                                    [api_path] => /challenge/5988584955/8kjnwH5dcQ/
+                                                    [hide_webview_header] => 1
+                                                    [lock] => 1
+                                                    [logout] => 
+                                                    [native_flow] => 1
+                                                )
+
+                                            [status] => fail
+                                            [error_type] => checkpoint_challenge_required
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/di287239/biz-training.eu/app/vendor/mgp25/instagram-php/src/Instagram.php
+                    [line] => 356
+                    [function] => getResponse
+                    [class] => InstagramAPI\Request
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => InstagramAPI\Response\LoginResponse Object
+                                (
+                                    [username] => 
+                                    [has_anonymous_profile_picture] => 
+                                    [profile_pic_url] => 
+                                    [profile_pic_id] => 
+                                    [full_name] => 
+                                    [pk] => 
+                                    [is_private] => 
+                                    [error_title] => 
+                                    [error_type] => checkpoint_challenge_required
+                                    [buttons] => 
+                                    [invalid_credentials] => 
+                                    [logged_in_user] => 
+                                    [status] => fail
+                                    [message] => challenge_required
+                                    [fullResponse] => 
+                                )
+
+                            [1] => 1
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/di287239/biz-training.eu/app/helpers/instagram_helper.php
+                    [line] => 392
+                    [function] => login
+                    [class] => InstagramAPI\Instagram
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [file] => /home/di287239/biz-training.eu/app/modules/instagram_accounts/controllers/instagram_accounts.php
+                    [line] => 104
+                    [function] => Instagram_Login
+                    [args] => Array
+                        (
+                            [0] => Abdullah_Aserhankani
+                            [1] => kd0ZvO57
+                            [2] => 
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [function] => ajax_update
+                    [class] => instagram_accounts
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [file] => /home/di287239/biz-training.eu/app/core/system/core/CodeIgniter.php
+                    [line] => 514
+                    [function] => call_user_func_array
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => instagram_accounts Object
+                                        (
+                                            [autoload] => Array
+                                                (
+                                                )
+
+                                            [load] => MY_Loader Object
+                                                (
+                                                    [_module:protected] => instagram_accounts
+                                                    [_ci_plugins] => Array
+                                                        (
+                                                        )
+
+                                                    [_ci_cached_vars] => Array
+                                                        (
+                                                        )
+
+                                                    [_ci_ob_level:protected] => 1
+                                                    [_ci_view_paths:protected] => Array
+                                                        (
+                                                            [/home/di287239/biz-training.eu/app/views/] => 1
+                                                        )
+
+                                                    [_ci_library_paths:protected] => Array
+                                                        (
+                                                            [0] => /home/di287239/biz-training.eu/app/
+                                                            [1] => /home/di287239/biz-training.eu/app/core/system/
+                                                        )
+
+                                                    [_ci_model_paths:protected] => Array
+                                                        (
+                                                            [0] => /home/di287239/biz-training.eu/app/modules/instagram_accounts/
+                                                            [1] => /home/di287239/biz-training.eu/app/
+                                                        )
+
+                                                    [_ci_helper_paths:protected] => Array
+                                                        (
+                                                            [0] => /home/di287239/biz-training.eu/app/
+                                                            [1] => /home/di287239/biz-training.eu/app/core/system/
+                                                        )
+
+                                                    [_ci_classes:protected] => Array
+                                                        (
+                                                            [benchmark] => Benchmark
+                                                            [hooks] => Hooks
+                                                            [config] => Config
+                                                            [log] => Log
+                                                            [utf8] => Utf8
+                                                            [uri] => URI
+                                                            [router] => Router
+                                                            [output] => Output
+                                                            [security] => Security
+                                                            [input] => Input
+                                                            [lang] => Lang
+                                                            [loader] => Loader
+                                                            [template] => Template
+                                                            [parser] => Parser
+                                                            [agent] => User_agent
+                                                            [session] => Session
+                                                            [email] => Email
+                                                            [pagination] => Pagination
+                                                            [model] => Model
+                                                        )
+
+                                                    [_ci_models:protected] => Array
+                                                        (
+                                                            [0] => model
+                                                        )
+
+                                                    [_ci_helpers:protected] => Array
+                                                        (
+                                                            [url_helper] => 1
+                                                            [file_helper] => 1
+                                                            [cookie_helper] => 1
+                                                            [common_helper] => 1
+                                                            [facebook_helper] => 1
+                                                            [google_helper] => 1
+                                                            [twitter_helper] => 1
+                                                            [instagram_helper] => 1
+                                                        )
+
+                                                    [_ci_varmap:protected] => Array
+                                                        (
+                                                            [unit_test] => unit
+                                                            [user_agent] => agent
+                                                        )
+
+                                                    [controller] => instagram_accounts Object
+ *RECURSION*
+                                                )
+
+                                        )
+
+                                    [1] => ajax_update
+                                )
+
+                            [1] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [file] => /home/di287239/biz-training.eu/index.php
+                    [line] => 307
+                    [args] => Array
+                        (
+                            [0] => /home/di287239/biz-training.eu/app/core/system/core/CodeIgniter.php
+                        )
+
+                    [function] => require_once
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+object(InstagramAPI\Exception\EndpointException)#101 (7) {
+  ["message":protected]=>
+  string(19) "challenge_required."
+  ["string":"Exception":private]=>
+  string(0) ""
+  ["code":protected]=>
+  int(0)
+  ["file":protected]=>
+  string(100) "/home/di287239/biz-training.eu/app/vendor/mgp25/instagram-php/src/Exception/ServerMessageThrower.php"
+  ["line":protected]=>
+  int(88)
+  ["trace":"Exception":private]=>
+  array(8) {
+    [0]=>
+    array(6) {
+      ["file"]=>
+      string(76) "/home/di287239/biz-training.eu/app/vendor/mgp25/instagram-php/src/Client.php"
+      ["line"]=>
+      int(437)
+      ["function"]=>
+      string(9) "autoThrow"
+      ["class"]=>
+      string(43) "InstagramAPI\Exception\ServerMessageThrower"
+      ["type"]=>
+      string(2) "::"
+      ["args"]=>
+      array(2) {
+        [0]=>
+        string(35) "InstagramAPI\Response\LoginResponse"
+        [1]=>
+        string(18) "challenge_required"
+      }
+    }
+    [1]=>
+    array(6) {
+      ["file"]=>
+      string(77) "/home/di287239/biz-training.eu/app/vendor/mgp25/instagram-php/src/Request.php"
+      ["line"]=>
+      int(106)
+      ["function"]=>
+      string(23) "getMappedResponseObject"
+      ["class"]=>
+      string(19) "InstagramAPI\Client"
+      ["type"]=>
+      string(2) "->"
+      ["args"]=>
+      array(4) {
+        [0]=>
+        object(InstagramAPI\Response\LoginResponse)#104 (15) {
+          ["username"]=>
+          NULL
+          ["has_anonymous_profile_picture"]=>
+          NULL
+          ["profile_pic_url"]=>
+          NULL
+          ["profile_pic_id"]=>
+          NULL
+          ["full_name"]=>
+          NULL
+          ["pk"]=>
+          NULL
+          ["is_private"]=>
+          NULL
+          ["error_title"]=>
+          NULL
+          ["error_type"]=>
+          string(29) "checkpoint_challenge_required"
+          ["buttons"]=>
+          NULL
+          ["invalid_credentials"]=>
+          NULL
+          ["logged_in_user"]=>
+          NULL
+          ["status"]=>
+          string(4) "fail"
+          ["message"]=>
+          string(18) "challenge_required"
+          ["fullResponse"]=>
+          NULL
+        }
+        [1]=>
+        object(stdClass)#79 (4) {
+          ["message"]=>
+          string(18) "challenge_required"
+          ["challenge"]=>
+          object(stdClass)#91 (6) {
+            ["url"]=>
+            string(56) "https://i.instagram.com/challenge/5988584955/8kjnwH5dcQ/"
+            ["api_path"]=>
+            string(33) "/challenge/5988584955/8kjnwH5dcQ/"
+            ["hide_webview_header"]=>
+            bool(true)
+            ["lock"]=>
+            bool(true)
+            ["logout"]=>
+            bool(false)
+            ["native_flow"]=>
+            bool(true)
+          }
+          ["status"]=>
+          string(4) "fail"
+          ["error_type"]=>
+          string(29) "checkpoint_challenge_required"
+        }
+        [2]=>
+        bool(true)
+        [3]=>
+        array(2) {
+          [0]=>
+          string(32) "WuDHhL7St7ldaS8mYKv4HKgsHFzF4rtT"
+          [1]=>
+          object(stdClass)#79 (4) {
+            ["message"]=>
+            string(18) "challenge_required"
+            ["challenge"]=>
+            object(stdClass)#91 (6) {
+              ["url"]=>
+              string(56) "https://i.instagram.com/challenge/5988584955/8kjnwH5dcQ/"
+              ["api_path"]=>
+              string(33) "/challenge/5988584955/8kjnwH5dcQ/"
+              ["hide_webview_header"]=>
+              bool(true)
+              ["lock"]=>
+              bool(true)
+              ["logout"]=>
+              bool(false)
+              ["native_flow"]=>
+              bool(true)
+            }
+            ["status"]=>
+            string(4) "fail"
+            ["error_type"]=>
+            string(29) "checkpoint_challenge_required"
+          }
+        }
+      }
+    }
+    [2]=>
+    array(6) {
+      ["file"]=>
+      string(79) "/home/di287239/biz-training.eu/app/vendor/mgp25/instagram-php/src/Instagram.php"
+      ["line"]=>
+      int(356)
+      ["function"]=>
+      string(11) "getResponse"
+      ["class"]=>
+      string(20) "InstagramAPI\Request"
+      ["type"]=>
+      string(2) "->"
+      ["args"]=>
+      array(2) {
+        [0]=>
+        object(InstagramAPI\Response\LoginResponse)#104 (15) {
+          ["username"]=>
+          NULL
+          ["has_anonymous_profile_picture"]=>
+          NULL
+          ["profile_pic_url"]=>
+          NULL
+          ["profile_pic_id"]=>
+          NULL
+          ["full_name"]=>
+          NULL
+          ["pk"]=>
+          NULL
+          ["is_private"]=>
+          NULL
+          ["error_title"]=>
+          NULL
+          ["error_type"]=>
+          string(29) "checkpoint_challenge_required"
+          ["buttons"]=>
+          NULL
+          ["invalid_credentials"]=>
+          NULL
+          ["logged_in_user"]=>
+          NULL
+          ["status"]=>
+          string(4) "fail"
+          ["message"]=>
+          string(18) "challenge_required"
+          ["fullResponse"]=>
+          NULL
+        }
+        [1]=>
+        bool(true)
+      }
+    }
+    [3]=>
+    array(6) {
+      ["file"]=>
+      string(63) "/home/di287239/biz-training.eu/app/helpers/instagram_helper.php"
+      ["line"]=>
+      int(392)
+      ["function"]=>
+      string(5) "login"
+      ["class"]=>
+      string(22) "InstagramAPI\Instagram"
+      ["type"]=>
+      string(2) "->"
+      ["args"]=>
+      array(0) {
+      }
+    }
+    [4]=>
+    array(4) {
+      ["file"]=>
+      string(96) "/home/di287239/biz-training.eu/app/modules/instagram_accounts/controllers/instagram_accounts.php"
+      ["line"]=>
+      int(104)
+      ["function"]=>
+      string(15) "Instagram_Login"
+      ["args"]=>
+      array(3) {
+        [0]=>
+        &string(20) "Abdullah_Aserhankani"
+        [1]=>
+        &string(8) "kd0ZvO57"
+        [2]=>
+        &string(0) ""
+      }
+    }
+    [5]=>
+    array(4) {
+      ["function"]=>
+      string(11) "ajax_update"
+      ["class"]=>
+      string(18) "instagram_accounts"
+      ["type"]=>
+      string(2) "->"
+      ["args"]=>
+      array(0) {
+      }
+    }
+    [6]=>
+    array(4) {
+      ["file"]=>
+      string(67) "/home/di287239/biz-training.eu/app/core/system/core/CodeIgniter.php"
+      ["line"]=>
+      int(514)
+      ["function"]=>
+      string(20) "call_user_func_array"
+      ["args"]=>
+      array(2) {
+        [0]=>
+        &array(2) {
+          [0]=>
+          &object(instagram_accounts)#26 (2) {
+            ["autoload"]=>
+            array(0) {
+            }
+            ["load"]=>
+            object(MY_Loader)#28 (13) {
+              ["_module":protected]=>
+              string(18) "instagram_accounts"
+              ["_ci_plugins"]=>
+              array(0) {
+              }
+              ["_ci_cached_vars"]=>
+              &array(0) {
+              }
+              ["_ci_ob_level":protected]=>
+              int(1)
+              ["_ci_view_paths":protected]=>
+              &array(1) {
+                ["/home/di287239/biz-training.eu/app/views/"]=>
+                bool(true)
+              }
+              ["_ci_library_paths":protected]=>
+              &array(2) {
+                [0]=>
+                string(35) "/home/di287239/biz-training.eu/app/"
+                [1]=>
+                string(47) "/home/di287239/biz-training.eu/app/core/system/"
+              }
+              ["_ci_model_paths":protected]=>
+              &array(2) {
+                [0]=>
+                string(62) "/home/di287239/biz-training.eu/app/modules/instagram_accounts/"
+                [1]=>
+                string(35) "/home/di287239/biz-training.eu/app/"
+              }
+              ["_ci_helper_paths":protected]=>
+              &array(2) {
+                [0]=>
+                string(35) "/home/di287239/biz-training.eu/app/"
+                [1]=>
+                string(47) "/home/di287239/biz-training.eu/app/core/system/"
+              }
+              ["_ci_classes":protected]=>
+              &array(19) {
+                ["benchmark"]=>
+                string(9) "Benchmark"
+                ["hooks"]=>
+                string(5) "Hooks"
+                ["config"]=>
+                string(6) "Config"
+                ["log"]=>
+                string(3) "Log"
+                ["utf8"]=>
+                string(4) "Utf8"
+                ["uri"]=>
+                string(3) "URI"
+                ["router"]=>
+                string(6) "Router"
+                ["output"]=>
+                string(6) "Output"
+                ["security"]=>
+                string(8) "Security"
+                ["input"]=>
+                string(5) "Input"
+                ["lang"]=>
+                string(4) "Lang"
+                ["loader"]=>
+                string(6) "Loader"
+                ["template"]=>
+                string(8) "Template"
+                ["parser"]=>
+                string(6) "Parser"
+                ["agent"]=>
+                string(10) "User_agent"
+                ["session"]=>
+                string(7) "Session"
+                ["email"]=>
+                string(5) "Email"
+                ["pagination"]=>
+                string(10) "Pagination"
+                ["model"]=>
+                string(5) "Model"
+              }
+              ["_ci_models":protected]=>
+              &array(1) {
+                [0]=>
+                string(5) "model"
+              }
+              ["_ci_helpers":protected]=>
+              &array(8) {
+                ["url_helper"]=>
+                bool(true)
+                ["file_helper"]=>
+                bool(true)
+                ["cookie_helper"]=>
+                bool(true)
+                ["common_helper"]=>
+                bool(true)
+                ["facebook_helper"]=>
+                bool(true)
+                ["google_helper"]=>
+                bool(true)
+                ["twitter_helper"]=>
+                bool(true)
+                ["instagram_helper"]=>
+                bool(true)
+              }
+              ["_ci_varmap":protected]=>
+              &array(2) {
+                ["unit_test"]=>
+                string(4) "unit"
+                ["user_agent"]=>
+                string(5) "agent"
+              }
+              ["controller"]=>
+              *RECURSION*
+            }
+          }
+          [1]=>
+          string(11) "ajax_update"
+        }
+        [1]=>
+        &array(0) {
+        }
+      }
+    }
+    [7]=>
+    array(4) {
+      ["file"]=>
+      string(40) "/home/di287239/biz-training.eu/index.php"
+      ["line"]=>
+      int(307)
+      ["args"]=>
+      array(1) {
+        [0]=>
+        string(67) "/home/di287239/biz-training.eu/app/core/system/core/CodeIgniter.php"
+      }
+      ["function"]=>
+      string(12) "require_once"
+    }
+  }
+  ["previous":"Exception":private]=>
+  NULL
+}

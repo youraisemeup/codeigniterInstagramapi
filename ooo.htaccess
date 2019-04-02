@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteCond %{HTTP:X-Forwarded-Proto} !https [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+#RewriteCond %{SERVER_NAME} ^(www\.)?(.*)$ [NC]
+RewriteRule ^ https://app.igplan.com/%{REQUEST_URI} [L,NE,R=301]  
